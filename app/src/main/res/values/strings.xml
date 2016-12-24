@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Discountcheo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">376493989226445</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_qr_product_result">QrProductResult</string>
+    <string name="title_activity_check_in">CheckInActivity</string>
+    <string name="title_activity_thank_you">ThankYouActivity</string>
+</resources>
